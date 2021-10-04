@@ -2,7 +2,8 @@
 - 👀 I’m interested in Web development and Game development
 - 🌱 I’m currently doing a bachelor's degree in IT. 
 - 💞️ I’m looking to collaborate on Web development projects.
-- 📫 My email: it.subashaa@gmail.com
+- 📫 Contact me: 
+-    my email: it.subashaa@gmail.com
 
 <!---
 Subash-A-A/Subash-A-A is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
