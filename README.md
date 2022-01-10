@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Subash
-- 👀 I’m interested in Web development🐱‍🏍🐱‍👤, Game development🎮🐱‍🐉  
+- 👀 I’m interested in Web development, Game development🎮
 - 🌱 I’m currently doing a bachelor's degree in IT. 
 - 💞️ I’m looking to collaborate on Web development projects.
 - 📫 Contact me: 
